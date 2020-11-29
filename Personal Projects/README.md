@@ -1,11 +1,17 @@
-# Work Projects
+# Personal Projects
 In this repository, you'll find the summary of the work projects that I've worked on.
 
-## ADB (Adaptive Driving Beam) at Electronica 2018
+## Space Invader in Python
 * Goto the following webpage for more detail
 
-## ISELED based RGB LED with embedded IC
+## Plants VS Zombie in Python
 * Goto the following webpage for more detail
 
-## Open Source RGB LED with embedded IC
+## Calender and Scheduler in Python/Django/ReactJS
+* Goto the following webpage for more detail
+
+## STM32F405 Custom Designed Microcontroller
+* Goto the following webpage for more detail
+
+## Pneumonia Detector
 * Goto the following webpage for more detail
