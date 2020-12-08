@@ -33,7 +33,7 @@ The complete ADB module setup can be summarised in the image below:
 ## ADB Module In Action
 ![Alt Text](./src/Demo.gif)\
 
-In the clip above, it can be seen that there is a camera placed near where the participant is, while the ADB Headlamp module is placed on the wall (the red circle highlighs the camera while the blue circle highlights the ADB module).
+In the clip above (the person in the clip is myself, sorry for the weird angles at times), it can be seen that there is a camera placed near where the participant is, while the ADB Headlamp module is placed on the wall (the red circle highlighs the camera while the blue circle highlights the ADB module).
 ![image info](./src/Camera.png)\
 
 In the display screen, the participant can see that as they move, the pixels corresponding to where they are sitted will turn off accordingly.
