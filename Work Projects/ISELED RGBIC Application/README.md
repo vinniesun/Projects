@@ -1,11 +1,13 @@
-# Work Projects
-In this repository, you'll find the summary of the work projects that I've worked on.
+# ISELED Based RGB LED with Embedded IC
+Over the past decade, the automotive industry have undergone some significant changes. The once often overlooked interior lighting has been gaining more importance, as more emphasis has been placed on the comfort and safety aspect of the driver/passenger experience. With ADAS becoming more and more prominent, there is a need for lighting to connect with the ADAS sensors.
 
-## ADB (Adaptive Driving Beam) at Electronica 2018
-* Goto the following webpage for more detail
+The ISELED Concept is BMW's way of realising this. By embedding driver IC within RGB LED package with very accurate colour calibration, the ISELED powered LEDs can create a comfortable  environment through homogenous lighting and interact with the driver/passengers.
 
-## ISELED based RGB LED with embedded IC
-* Goto the following webpage for more detail
+## Overview of ISELED RGB LED Demo Module
+As Everlight Electronics is a member of the ISELED Alliance, Everlight have also designed an LED package using the ISELED technology.
 
-## Open Source RGB LED with embedded IC
-* Goto the following webpage for more detail
+![Alt Text](./src/Demo.gif)\
+
+This demo module is created with 30 ISELED powered LEDs and is driven with an ARM based S32K144  microcontroller from NXP.
+
+
