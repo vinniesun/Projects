@@ -28,13 +28,13 @@ The laptop will determine which region(s) should be turned off, and transmit the
 ["Start", NUM, NUM, NUM, NUM, NUM, ..., NUM, "End"], where "Start" is the trigger start for the current frame, NUM will be the PWM duty cycle of the LEDs (NUM has the value of 100, 75, 50, 25, 0) and "End" is the end of frame message. The order of transmission will be LED1->LED2->LED3->...->LED24.
 
 The complete ADB module setup can be summarised in the image below:
-![image info](./src/ADB_Setup.png)\
+![image info](./src/ADB_Setup.png)
 
 ## ADB Module In Action
-![Alt Text](./src/Demo.gif)\
+![Alt Text](./src/Demo.gif)
 
 In the clip above (the person in the clip is myself, sorry for the weird angles at times), it can be seen that there is a camera placed near where the participant is, while the ADB Headlamp module is placed on the wall (the red circle highlighs the camera while the blue circle highlights the ADB module).
-![image info](./src/Camera.png)\
+![image info](./src/Camera.png)
 
 In the display screen, the participant can see that as they move, the pixels corresponding to where they are sitted will turn off accordingly.
-![image info](./src/Display.png)\
+![image info](./src/Display.png)

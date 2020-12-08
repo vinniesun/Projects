@@ -6,7 +6,7 @@ The ISELED Concept is BMW's way of realising this. By embedding driver IC within
 ## Overview of ISELED RGB LED Demo Module
 As Everlight Electronics is a member of the ISELED Alliance, Everlight have also designed an LED package using the ISELED technology.
 
-![Alt Text](./src/Demo.gif)\
+![Alt Text](./src/Demo.gif)
 
 This demo module is created with 30 ISELED powered LEDs and is driven with an ARM based S32K144  microcontroller from NXP.
 
