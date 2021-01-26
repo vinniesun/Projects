@@ -1,0 +1,3 @@
+For Pong.ch8:
+* player 1's control is '1' for up, 'q' for down
+* player 2's control is '4' for up, 'r' for down
